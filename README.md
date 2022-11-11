@@ -1,2 +1,2 @@
-# BlockPI-logokit
-This is the logokit of BlockPI Network. 
+# BlockPI-logo
+This is the logo of BlockPI Network. 
